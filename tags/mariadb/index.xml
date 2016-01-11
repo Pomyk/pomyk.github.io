@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariadb on Pomyk&#39;s blog</title>
+    <link>http://localhost:1313/tags/mariadb/</link>
+    <description>Recent content in Mariadb on Pomyk&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sun, 04 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic counters in MySQL...</title>
+      <link>http://localhost:1313/2010/04/atomic-counters-in-mysql.../</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2010/04/atomic-counters-in-mysql.../</guid>
+      <description>&lt;p&gt;How to modify a value and fetch it atomically.&lt;/p&gt;
+
+&lt;p&gt;One way would be a table with auto_increment column, but that way one table equals one counter.
+If you want to have more counters you can use the INSERT &amp;hellip; ON DUPLICATE KEY construct and subquery with variables.&lt;/p&gt;
+
+&lt;p&gt;Table schema:
+&lt;pre&gt;&lt;code class=&#34;sql&#34;&gt;CREATE TABLE &lt;code&gt;counter&lt;/code&gt; (
+   &lt;code&gt;id&lt;/code&gt; int(10) unsigned NOT NULL,
+   &lt;code&gt;count&lt;/code&gt; int(10) unsigned NOT NULL,
+   PRIMARY KEY  (&lt;code&gt;id&lt;/code&gt;);
+) ENGINE=InnoDB;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+
+&lt;p&gt;Query which increments the counter and fetches it&amp;rsquo;s value:
+&lt;pre&gt;&lt;code class=&#34;sql&#34;&gt;INSERT INTO counter (id, count)
+(SELECT 1, @count := 1)
+ON DUPLICATE KEY UPDATE count = (SELECT @count := count + 1);
+SELECT @count AS count;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gentoo on Pomyk&#39;s blog</title>
+    <link>http://localhost:1313/tags/gentoo/</link>
+    <description>Recent content in Gentoo on Pomyk&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 11 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>64-bitowa java w Operze pod Gentoo</title>
+      <link>http://localhost:1313/2010/09/64-bitowa-java-w-operze-pod-gentoo/</link>
+      <pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2010/09/64-bitowa-java-w-operze-pod-gentoo/</guid>
+      <description>&lt;p&gt;W ciągu prawie dwóch lat kilka razy podchodziłem do tego tematu i dzisiaj w końcu się udało. Pomógł mi nieistniejący już wpis na blogu Ruari&amp;rsquo;ego.
+Do poprawnego działania javy pod Operą potrzebne jest:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://packages.gentoo.org/package/dev-java/icedtea&#34;&gt;icedtea&lt;/a&gt; – najnowsza wersja w repozytorium gentoo&lt;/li&gt;
+&lt;li&gt;utworzenie symlinków dla bibliotek xulrunnera:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;sudo ln -s /usr/lib/xulrunner-1.9.2/libxpcom.so /usr/lib/libxpcom.so
+sudo ln -s /usr/lib/xulrunner-1.9.2/libmozjs.so /usr/lib/libmozjs.so
+sudo ln -s /usr/lib/xulrunner-1.9.2/libxul.so /usr/lib/libxul.so
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;W innych systemach biblioteki te mogą być w innym miejscu, np. /usr/lib/firefox-3.x/&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

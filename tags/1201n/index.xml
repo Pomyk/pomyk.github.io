@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1201n on Pomyk&#39;s blog</title>
+    <link>http://localhost:1313/tags/1201n/</link>
+    <description>Recent content in 1201n on Pomyk&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 19 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/1201n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Asus Eee PC 1201N – mini recenzja, część 1</title>
+      <link>http://localhost:1313/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</guid>
+      <description>
+
+&lt;h3 id=&#34;wstęp:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Wstęp&lt;/h3&gt;
+
+&lt;p&gt;Od dłuższego czasu zanosiłem się z zamiarem kupna notebooka/netbooka, ale nie było takiego,
+który spełniłby moje wygórowane wymagania (albo był, ale go nie znalazłem).
+W założeniach miał być przenośny czyli mały, lekki i z sensowną baterią.
+Powinien dawać radę z filmami full hd i nie zabijać przy tym wszystkim ceną.
+Na ratunek przyszedł najnowszy netbook Asusa Eee PC 1201N z IONem na pokładzie.
+Recenzja będzie bardzo subiektywna ponieważ dawno nie miałem w rękach żadnego notebooka…&lt;/p&gt;
+
+&lt;h3 id=&#34;specyfikacja:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Specyfikacja&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Procesor: Intel Atom 330 (Dual Core) (1M Cache, 1.60 GHz, 533 MHz FSB)&lt;/li&gt;
+&lt;li&gt;Pamięć RAM: 2GB DDR2 SO-DIMM&lt;/li&gt;
+&lt;li&gt;Matryca: 12.1″ WXGA podświetlana diodami LED, 1366 x 768 pikseli&lt;/li&gt;
+&lt;li&gt;Karta graficzna: NVIDIA ION (GeForce 9400M)&lt;/li&gt;
+&lt;li&gt;Dysk twardy: 250GB + 500GB ASUS WebStorage&lt;/li&gt;
+&lt;li&gt;Komunikacja: 802.11b/g/n 2.4GHz, Bluetooth 2.1 + EDR&lt;/li&gt;
+&lt;li&gt;Porty: D-sub, HDMI, 3x USB 2.0, LAN RJ-45, słuchawki, mikrofon, czytnik kart: MMC/ SD(SDHC)&lt;/li&gt;
+&lt;li&gt;Kamera: 0.3 MPix&lt;/li&gt;
+&lt;li&gt;Bateria: 6-komorowa Li-ion, do 5h pracy&lt;/li&gt;
+&lt;li&gt;Wymiary: 296mm x 208mm x 27.3~ 33.3mm&lt;/li&gt;
+&lt;li&gt;Waga: ~1.5kg&lt;/li&gt;
+&lt;li&gt;System operacyjny: Windows 7 Home Premium&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;pierwsze-wrażenie:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Pierwsze wrażenie&lt;/h3&gt;
+
+&lt;p&gt;Ładny! Drugie wrażenie – skąd na tym tyle odcisków?
+Pierwsze uruchomienie… i trochę przydługa instalacjo-konfiguracja Windowsa 7.
+Sam system chodzi w miarę sprawnie, chociaż przyzwyczajony jestem do trochę szybszych maszyn.
+Oczywiście pierwsza rzecz to wyłączenie wodotrysków typu  aero i wszelakich animacyjek, które według mnie są zbędne.&lt;/p&gt;
+
+&lt;h3 id=&#34;touchpad:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Touchpad&lt;/h3&gt;
+
+&lt;p&gt;Obsługuje się bardzo przyjemnie. Posiada spore możliwości konfiguracyjne, m. in.:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;podstawy typu szybkość, przyspieszenie, czułość&lt;/li&gt;
+&lt;li&gt;możliwość skrolowania przesuwając palcem przy krawędzi i/lub przesuwając dwa palce po powierzchni&lt;/li&gt;
+&lt;li&gt;środkowy przycisk po kliknięciu dwoma palcami&lt;/li&gt;
+&lt;li&gt;powiększanie/pomniejszanie dwoma palcami&lt;/li&gt;
+&lt;li&gt;„obracanie”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;linux:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Linux&lt;/h3&gt;
+
+&lt;p&gt;Netbooka kupiłem oczywiście z zamysłem zainstalowania na nim linuxa. Początkowo myślałem o Gentoo, którego mam na swoim desktopie i już całkiem
+ nieźle ogarniam, ale moja niecierpliwość wzięła górę i padło na kubuntu wersja ‚netbook’. Instalacja w najprostszy możliwy sposób – spod Windowsa. Nie
+ trzeba bawić się w partycjonowanie dysku, ubuntu rezerwuje sobie po prostu trochę miejsca na partycji windowsowej.&lt;/p&gt;
+
+&lt;p&gt;Domyślny wygląd pulpitu wersji netbookowej nie przypadł mi do gustu, więc zmieniłem na zwykły. Pozostał cienki, ukrywający się pasek z
+uruchomionymi aplikacjami i ikonami w trayu. Ze zmuszeniem sprzętu do współpracy pod linuxem było trochę problemów:
+* kubuntu zainstalowało się z włoskim mapowaniem klawiatury – masakra…
+* nie ma sterów do wifi – trzeba użyć tych z windowsa 2000 poprzez ndiswrapper
+* nie udało mi się skonfigurować touch pada tak jak pod windowsem (nie działa na przykład skrolowanie dwoma palcami)&lt;/p&gt;
+
+&lt;p&gt;ciąg dalszy nastąpi… (albo i nie)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
