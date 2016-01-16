@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vim on Pomyk&#39;s blog</title>
-    <link>http://localhost:1313/tags/vim/</link>
+    <link>http://blog.pomyk.com/tags/vim/</link>
     <description>Recent content in Vim on Pomyk&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 12 Oct 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.pomyk.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vim – kilka przydatnych linków &#43; plugin tabbar</title>
-      <link>http://localhost:1313/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</link>
+      <link>http://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</guid>
+      <guid>http://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</guid>
       <description>&lt;p&gt;Jest to pierwszy z postów traktujących o Vimie – najlepszym edytorze dla programisty. Na początek kilka przydatnych linków dla początkujących:&lt;/p&gt;
 
 &lt;ul&gt;
