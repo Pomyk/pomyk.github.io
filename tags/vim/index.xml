@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vim on Pomyk&#39;s blog</title>
-    <link>http://blog.pomyk.com/tags/vim/</link>
+    <link>https://blog.pomyk.com/tags/vim/</link>
     <description>Recent content in Vim on Pomyk&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 12 Oct 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.pomyk.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.pomyk.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vim – kilka przydatnych linków &#43; plugin tabbar</title>
-      <link>http://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</link>
+      <link>https://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</link>
       <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</guid>
+      <guid>https://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</guid>
       <description>&lt;p&gt;Jest to pierwszy z postów traktujących o Vimie – najlepszym edytorze dla programisty. Na początek kilka przydatnych linków dla początkujących:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://dailyvim.blogspot.com/&#34;&gt;http://dailyvim.blogspot.com/&lt;/a&gt; – blog z różnymi sztuczkami, tutorialami itp. niestety dawno nie aktualizowany&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rayninfo.co.uk/vimtips.html&#34;&gt;http://www.rayninfo.co.uk/vimtips.html&lt;/a&gt; – długa lista różnych przydatnych komend&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://amix.dk/vim/vimrc.html&#34;&gt;http://amix.dk/vim/vimrc.html&lt;/a&gt; – rozbudowany plik vimrc z którego zaczerpnąłem kilka rzeczy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dailyvim.blogspot.com/&#34;&gt;https://dailyvim.blogspot.com/&lt;/a&gt; – blog z różnymi sztuczkami, tutorialami itp. niestety dawno nie aktualizowany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rayninfo.co.uk/vimtips.html&#34;&gt;https://www.rayninfo.co.uk/vimtips.html&lt;/a&gt; – długa lista różnych przydatnych komend&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amix.dk/vim/vimrc.html&#34;&gt;https://amix.dk/vim/vimrc.html&lt;/a&gt; – rozbudowany plik vimrc z którego zaczerpnąłem kilka rzeczy&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Dodatkowo polecę &lt;a href=&#34;http://www.vim.org/scripts/script.php?script_id=1338&#34;&gt;tabbar&lt;/a&gt; – plugin bez którego nie wyobrażam sobie pracy w Vimie. Wyświetla otwarte pliki w postaci „zakładek” i umożliwia szybkie przełączanie się pomiędzy nimi za pomocą kombinacji alt+0, alt+1 itd. Jedyną jego wadą jest to, że czasem „gryzie się” z innymi wtyczkami/funkcjonalnościami (np. wyniki vimdiffa w jednym panelu są 2 linijki niżej co utrudnia porównanie).&lt;/p&gt;
+&lt;p&gt;Dodatkowo polecę &lt;a href=&#34;https://www.vim.org/scripts/script.php?script_id=1338&#34;&gt;tabbar&lt;/a&gt; – plugin bez którego nie wyobrażam sobie pracy w Vimie. Wyświetla otwarte pliki w postaci „zakładek” i umożliwia szybkie przełączanie się pomiędzy nimi za pomocą kombinacji alt+0, alt+1 itd. Jedyną jego wadą jest to, że czasem „gryzie się” z innymi wtyczkami/funkcjonalnościami (np. wyniki vimdiffa w jednym panelu są 2 linijki niżej co utrudnia porównanie).&lt;/p&gt;
 
 &lt;p&gt;W następnych wpisach postaram się przybliżyć inne ciekawe pluginy z których korzystam.&lt;/p&gt;
 </description>

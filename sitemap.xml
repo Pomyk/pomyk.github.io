@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.pomyk.com/</loc>
+    <loc>https://blog.pomyk.com/</loc>
     <lastmod>2011-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2011/05/widoczki-ze-slonecznej-norwegii/</loc>
+    <loc>https://blog.pomyk.com/2011/05/widoczki-ze-slonecznej-norwegii/</loc>
     <lastmod>2011-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2011/04/lekkie-zmiany-w-planach/</loc>
+    <loc>https://blog.pomyk.com/2011/04/lekkie-zmiany-w-planach/</loc>
     <lastmod>2011-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/12/plany-na-nowy-rok/</loc>
+    <loc>https://blog.pomyk.com/2010/12/plany-na-nowy-rok/</loc>
     <lastmod>2010-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</loc>
+    <loc>https://blog.pomyk.com/2010/10/vim--kilka-przydatnych-link%C3%B3w--plugin-tabbar/</loc>
     <lastmod>2010-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</loc>
+    <loc>https://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</loc>
     <lastmod>2010-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/04/atomic-counters-in-mysql.../</loc>
+    <loc>https://blog.pomyk.com/2010/04/atomic-counters-in-mysql.../</loc>
     <lastmod>2010-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</loc>
+    <loc>https://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</loc>
     <lastmod>2010-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/2010/01/pierwszy/</loc>
+    <loc>https://blog.pomyk.com/2010/01/pierwszy/</loc>
     <lastmod>2010-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.pomyk.com/about/</loc>
+    <loc>https://blog.pomyk.com/about/</loc>
   </url>
   
 </urlset>

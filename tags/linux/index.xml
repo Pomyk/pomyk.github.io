@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Pomyk&#39;s blog</title>
-    <link>http://blog.pomyk.com/tags/linux/</link>
+    <link>https://blog.pomyk.com/tags/linux/</link>
     <description>Recent content in Linux on Pomyk&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Sat, 11 Sep 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.pomyk.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.pomyk.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>64-bitowa java w Operze pod Gentoo</title>
-      <link>http://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</link>
+      <link>https://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</link>
       <pubDate>Sat, 11 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</guid>
+      <guid>https://blog.pomyk.com/2010/09/64-bitowa-java-w-operze-pod-gentoo/</guid>
       <description>&lt;p&gt;W ciągu prawie dwóch lat kilka razy podchodziłem do tego tematu i dzisiaj w końcu się udało. Pomógł mi nieistniejący już wpis na blogu Ruari&amp;rsquo;ego.
 Do poprawnego działania javy pod Operą potrzebne jest:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://packages.gentoo.org/package/dev-java/icedtea&#34;&gt;icedtea&lt;/a&gt; – najnowsza wersja w repozytorium gentoo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://packages.gentoo.org/package/dev-java/icedtea&#34;&gt;icedtea&lt;/a&gt; – najnowsza wersja w repozytorium gentoo&lt;/li&gt;
 &lt;li&gt;utworzenie symlinków dla bibliotek xulrunnera:&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -34,10 +34,10 @@ sudo ln -s /usr/lib/xulrunner-1.9.2/libxul.so /usr/lib/libxul.so
     
     <item>
       <title>Asus Eee PC 1201N – mini recenzja, część 1</title>
-      <link>http://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</link>
+      <link>https://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</link>
       <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</guid>
+      <guid>https://blog.pomyk.com/2010/01/asus-eee-pc-1201n--mini-recenzja-cz%C4%99%C5%9B%C4%87-1/</guid>
       <description>
 
 &lt;h3 id=&#34;wstęp:e3e8e575d91d0210ec00fd51cbf5c85e&#34;&gt;Wstęp&lt;/h3&gt;
